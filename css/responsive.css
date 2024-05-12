@@ -1,0 +1,127 @@
+@media only screen and (max-width: 1065px){
+   
+ 
+    #projects{
+        height: 950px;
+        
+        flex-direction: column;
+    }
+    #project{
+     
+        width: 1330px;
+    height: 200px; 
+    }
+    
+    
+      
+      #projects-text{
+        padding-left:10px ;
+
+      }
+    
+}
+
+
+@media only screen and (max-width: 630px){
+    
+       
+       
+        .icon p{ font-size: 10px;  display: flex;
+            flex-direction: column
+        }
+
+        }
+          @media only screen and (max-width: 900px){
+            #contact1{
+                border-right:none;
+          }
+          #author-text{
+            font-size: 15px;
+        }
+        #author-pic img{
+            width:220px ;
+            height: 310px;
+           
+        }
+         
+}
+@media only screen and (max-width: 710px){
+   
+    .fa-facebook,.fa-instagram,.fa-youtube{
+                font-size: 29px;
+    }
+    .block-box{
+        width: 70%;
+    }
+    .block-box p{
+        font-size: 12px
+    }
+    input{
+        width: 100px;
+    height: 12px;
+    }
+    #btn{
+        margin:0px auto;
+        width:50px;
+        height:20px;
+        font-size: 10px;
+        margin-left: 20px;
+    }
+    #contact1 p{
+        font-size: 11px;     margin: auto;
+    }
+    #contact1{
+       margin: 0%;
+    }
+    #contact2{
+        width: 190px;
+    }
+    #projects{
+            
+        display: flex;
+        flex-direction: column;
+    }
+    .fa-facebook,.fa-instagram,.fa-youtube{
+        font-size: 22px;
+    }
+    .project{
+        
+        width: 270px;
+        height: 230px;
+    }
+    
+      #about h1{font-size: 50px;}
+      #about p{font-size: 15px;}
+      #contact1{
+        
+        height: 100%;   
+        display: flex;
+        flex-direction: column;
+        
+    }
+    #projects-text{
+        padding-left:10px ;
+
+      }
+      .icons p{
+        font-size: 10px;
+      }
+      header p{
+      
+        font-size: 20px;
+    }
+    header h1{
+        font-size: 30px;
+    }
+    nav a {
+        font-size: 15px;
+    }
+    #author-text{
+        font-size: 12px;
+    }
+   
+    #author-pic img{
+        width:190px ;
+        height: 250px;
+    }
+}
